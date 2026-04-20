@@ -1,7 +1,4 @@
 # Real-Time-Human-Robot-Interaction-System
-
-# 🤖 Mister Robo – Real-Time Human-Robot Interaction System
-
 Mister Robo is a real-time interactive robot interface that combines **computer vision, speech recognition, and conversational AI** to create a natural human-robot interaction experience.
 
 The system can see, listen, think, and respond with expressive visual feedback and voice output.
